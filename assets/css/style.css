@@ -329,6 +329,8 @@ button, input, select, textarea {
   display: flex;
   align-items: center;
   gap: 2rem;
+  margin-left: auto;
+  margin-right: 1.75rem;
 }
 
 .nav-link {
@@ -422,10 +424,17 @@ button, input, select, textarea {
   z-index: 1;
 }
 
-.hero-content {
+.hero-section .container {
   position: relative;
   z-index: 2;
+}
+
+.hero-content {
+  position: relative;
   max-width: 780px;
+  margin-left: 0;
+  margin-right: auto;
+  text-align: left;
 }
 
 .hero-subheading {
@@ -1768,6 +1777,10 @@ textarea.form-control {
   .top-bar {
     display: none; /* Keep mobile clean */
   }
+  .nav-cta .hotline-call,
+  .nav-cta .btn {
+    display: none;
+  }
   .hamburger-btn {
     display: block;
   }
@@ -1776,6 +1789,7 @@ textarea.form-control {
     top: 72px;
     left: 0;
     right: 0;
+    margin: 0;
     background: var(--color-primary-dark);
     flex-direction: column;
     padding: 1.5rem;

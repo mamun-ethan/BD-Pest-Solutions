@@ -1560,6 +1560,17 @@ textarea.form-control {
   font-size: 0.85rem;
 }
 
+.footer-bottom a {
+  color: var(--color-gold);
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.footer-bottom a:hover {
+  color: var(--color-gold-light);
+  text-decoration: underline;
+}
+
 /* ==========================================================================
    FLOATING ACTION BUTTONS (Call & WhatsApp)
    ========================================================================== */

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" width="220" height="70">
+  <!-- Beximco Corporate Logo -->
+  <g transform="translate(10, 16)">
+    <!-- Yellow/Blue geometric diamond emblem -->
+    <polygon points="18,2 34,18 18,34 2,18" fill="#F9A825"/>
+    <polygon points="18,6 30,18 18,30 6,18" fill="#1565C0"/>
+    <polygon points="18,11 25,18 18,25 11,18" fill="#FFFFFF"/>
+  </g>
+  <!-- Typography -->
+  <text x="56" y="34" font-family="'Roboto', sans-serif" font-size="18" font-weight="900" fill="#0D47A1" letter-spacing="1">BEXIMCO</text>
+  <text x="56" y="47" font-family="'Roboto', sans-serif" font-size="8" font-weight="700" fill="#E65100" letter-spacing="1.2">INDUSTRIAL PARK</text>
+</svg>

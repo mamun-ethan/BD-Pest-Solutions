@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Rangpur Cadet College Crest Emblem -->
+  <g transform="translate(10, 5)">
+    <!-- Outer Shield -->
+    <path d="M30 2 C44 2 56 6 56 16 C56 38 30 54 30 58 C30 54 4 38 4 16 C4 6 16 2 30 2 Z" fill="#0F3870" stroke="#E5B235" stroke-width="2"/>
+    <!-- Quartered Inner Shield -->
+    <path d="M30 7 L30 50" stroke="#E5B235" stroke-width="1.5"/>
+    <path d="M8 26 L52 26" stroke="#E5B235" stroke-width="1.5"/>
+    <!-- Emblems in Quadrants: Torch, Star, Laurel, Waves -->
+    <polygon points="19,14 21,18 25,18 22,21 23,25 19,23 15,25 16,21 13,18 17,18" fill="#FBBF24"/>
+    <circle cx="41" cy="18" r="4" fill="#E5B235"/>
+    <path d="M14 36 Q19 32 24 36" stroke="#E5B235" stroke-width="2" fill="none"/>
+    <polygon points="41,32 38,40 44,40" fill="#E5B235"/>
+    <!-- Bottom Ribbon -->
+    <path d="M6 50 Q30 57 54 50 L52 56 Q30 62 8 56 Z" fill="#E5B235"/>
+  </g>
+  <!-- Typography -->
+  <text x="75" y="28" font-family="'Roboto', sans-serif" font-size="14" font-weight="900" fill="#111827" letter-spacing="0.5">RANGPUR</text>
+  <text x="75" y="44" font-family="'Roboto', sans-serif" font-size="12" font-weight="700" fill="#0F3870" letter-spacing="0.8">CADET COLLEGE</text>
+  <text x="75" y="56" font-family="'Roboto', sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" letter-spacing="0.4">ESTD 1979 • BANGLADESH</text>
+</svg>

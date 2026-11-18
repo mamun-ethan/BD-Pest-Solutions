@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 70" width="240" height="70">
+  <!-- Mirzapur Cadet College Crest Emblem -->
+  <g transform="translate(10, 5)">
+    <!-- Crest Shield -->
+    <path d="M30 2 C44 2 56 6 56 16 C56 38 30 54 30 58 C30 54 4 38 4 16 C4 6 16 2 30 2 Z" fill="#800000" stroke="#D4AF37" stroke-width="2"/>
+    <!-- Inner Golden Border -->
+    <path d="M30 6 C41 6 51 9 51 17 C51 34 30 48 30 52 C30 48 9 34 9 17 C9 9 19 6 30 6 Z" fill="#1A365D" stroke="#D4AF37" stroke-width="1"/>
+    <!-- Crossed Swords / Torch -->
+    <path d="M22 38 L38 18 M38 38 L22 18" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="30" cy="18" r="4" fill="#D4AF37"/>
+    <!-- Star & Book -->
+    <polygon points="30,22 32,27 37,27 33,30 35,35 30,32 25,35 27,30 23,27 28,27" fill="#FBBF24"/>
+    <!-- Ribbon -->
+    <path d="M8 52 Q30 58 52 52 L50 58 Q30 63 10 58 Z" fill="#D4AF37"/>
+  </g>
+  <!-- Typography -->
+  <text x="75" y="28" font-family="'Roboto', sans-serif" font-size="14" font-weight="900" fill="#111827" letter-spacing="0.5">MIRZAPUR</text>
+  <text x="75" y="44" font-family="'Roboto', sans-serif" font-size="12" font-weight="700" fill="#800000" letter-spacing="0.8">CADET COLLEGE</text>
+  <text x="75" y="56" font-family="'Roboto', sans-serif" font-size="8.5" font-weight="500" fill="#6B7280" letter-spacing="0.4">ESTD 1963 • BANGLADESH</text>
+</svg>
